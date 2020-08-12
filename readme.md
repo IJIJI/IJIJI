@@ -1,11 +1,9 @@
-### Hi there, I'm IJssel
+## Hi there, I'm IJssel
 
 <br />
 
 ### About Me:
 
-
----
 
 <br />
 
