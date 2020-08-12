@@ -1,9 +1,11 @@
 <h3> Hi there, I'm IJssel</h1>
 
+
+<!---
 <br />
 
-[//]: # (### About Me:)
-
+### About Me:
+-->
 
 <br />
 
