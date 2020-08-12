@@ -1,4 +1,4 @@
-<h1 style="font-size: 100px;"> Hi there, I'm IJssel</h1>
+<h1 style="font-size: 500px;"> Hi there, I'm IJssel</h1>
 
 <br />
 
