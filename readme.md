@@ -46,7 +46,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IJIJI&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IJIJI&count_private=true" />
 
 [website]: https://ijiji.github.io/
 [youtube]: https://www.youtube.com/channel/UCXkJOS9vqeIv19-V-Ak5HVQ
