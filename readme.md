@@ -45,10 +45,10 @@
 
 
 ---
-<li style="list-style: none;">
-  <ul><img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IJIJI&count_private=true&show_icons=true" /></ul>
-  <ul><img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJIJI&layout=compact" /></ul>
-</li>
+<ul style="list-style: none;">
+  <li><img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IJIJI&count_private=true&show_icons=true" /></li>
+  <li><img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJIJI&layout=compact" /></li>
+</ul>
 
 [website]: https://ijiji.github.io/
 [youtube]: https://www.youtube.com/channel/UCXkJOS9vqeIv19-V-Ak5HVQ
