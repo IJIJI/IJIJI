@@ -46,7 +46,8 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IJIJI&count_private=true&show_icons=true&hide=issues" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IJIJI&count_private=true&show_icons=true" />
+<br />
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJIJI&layout=compact" />
 
 
